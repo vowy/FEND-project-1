@@ -8,5 +8,7 @@ To create a responsive portfolio website showcasing work made through the Front 
 
 ### Version
 (June 13, 2018)
-Re-uploaded & made new Git repo
-Added new styling elements and well as HTML changes.
+
+-Re-uploaded & made new Git repo
+
+-Added new styling elements and well as HTML changes.
